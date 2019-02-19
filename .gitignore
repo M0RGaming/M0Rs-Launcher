@@ -147,12 +147,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-
-### Test files ###
-/assets
-/instances
-/libraries
-/versions
-/accounts.dat
-/config.json
