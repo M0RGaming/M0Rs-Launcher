@@ -1,0 +1,33 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Drowned",
+      "name" : "Drowned",
+      "version" : "1.0",
+      "location" : "drowned.json",
+      "priority" : 3
+    },
+    {
+      "title" : null,
+      "name" : "DivineMMO",
+      "version" : "2.0",
+      "location" : "divinemmo.json",
+      "priority" : 2
+    },
+    {
+      "title" : "1.11 Enhanced",
+      "name" : "1.11 Enhanced",
+      "version" : "1.5",
+      "location" : "1.11-enhanced.json",
+      "priority" : 1
+    },
+    {
+      "title" : "1.12 Enhanced",
+      "name" : "1.12.2 Enhanced",
+      "version" : "1.0",
+      "location" : "1.12.2-enhanced.json",
+      "priority" : 1
+    }
+  ]
+}

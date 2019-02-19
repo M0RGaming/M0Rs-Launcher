@@ -1,0 +1,2578 @@
+# Configuration file
+
+"blood magic: alchemical wizardry" {
+
+    lowerguardian {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntearth {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    shade {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    icedemon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    holyelemental {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntguardianfire {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    wingedfiredemon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    waterelemental {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntfire {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    boulderfist {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntwind {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    airelemental {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    shadeelemental {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntice {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    fireelemental {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntguardian {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntguardianearth {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntguardianice {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    fallenangel {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongruntguardianwind {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    biledemon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    earthelemental {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    smallearthgolem {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    minordemongrunt {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+chisel {
+
+    snowman {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+divinerpg {
+
+    drpgdreamwrecker {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgzelus {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpglheiva {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsoulfiend {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdramix {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgbunny {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgendertriplets {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgpumpkinspider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgkarot {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgfrosty {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmysteriousman2 {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgepiphite {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgvermenous {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpggalroid {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgshark {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgrazorback {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwildfire {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgthehunger {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcrab {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpglivingstatue {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghivesoldier {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgfyracryx {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgkobblin {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwildwoodcadillion {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsamek {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmage {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgkingcrab {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwreck {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgworkshopmerchant {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgayeracored {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgjackoman {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgweakcori {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsoulspider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgseimer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgjunglespider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgstonegolem {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdungeondemon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgalicanto {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgworkshoptinkerer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsnapper {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgjungledramcryx {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmysteriousman3 {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgparatiku {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgthewatcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwhale {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpggorgosion {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgtocaxin {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgjunglebat {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdesertcrawler {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgenderspider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgtempleguardian {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghelio {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgquadro {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgzoragon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmegalith {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsaguaroworm {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgvhraak {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgglacide {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgapalachiagolem {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwraith {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdeathcryx {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgapalachiatomo {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgedentomo {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgzone {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghivequeen {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgreyvor {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsorcerer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgskytherncori {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgparasecta {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgaridwarrior {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsmelter {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcaptainmerik {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpglorgaflight {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgenthralleddramcryx {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgkaros {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdensos {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgglacon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpggreenfeet {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgenderwatcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmadivel {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgapalachiacadillion {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpggolemofrejuv {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdemonofdarkness {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcryptkeeper {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgrotatick {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgskythernarcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgtwilightdemon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgthegrue {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgfractite {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgkazrotic {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgehu {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdungeonprisoner {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgayeracogreen {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmoonwolf {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpglordvatticus {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgayeracoyellow {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgshadahier {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgspellbinder {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcyclops {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgayeracoblue {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsoulstealer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgbohemite {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgtwins {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgroamer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwargeneral {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpganciententity {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgtwilightarcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgrainbour {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgundeadminer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmandragora {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghastreus {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgent {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgsunarcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghusk {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghellpig {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgtheeye {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgfrost {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgbiphron {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgenchantedwarrior {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgraglok {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgfrostarcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgliopleurodon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgverek {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgacidhag {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgskythernfiend {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdungeonconstructor {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmortumcadillion {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgenchantedarcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcymesoid {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgangrybunny {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwildwoodgolem {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgvamacheron {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgskytherngolem {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgrollum {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpglorga {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgayeracopurple {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgbaslisk {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmystic {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgscorcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghoverstinger {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgedencadillion {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdeathhound {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgwildwoodtomo {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgmysteriousman1 {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpghellspider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdatticon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcaveclops {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgduo {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgkingofscorchers {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgeternalarcher {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpggrizzle {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgbehemoth {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgcavecrawler {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgdissiment {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgladyluna {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpgleorna {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    drpglivestockmerchant {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+"ender io" {
+
+    witherskeleton {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+openblocks {
+
+    minime {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    luggage {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+pixelmon {
+
+    statue {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    trader {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    trainer {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    pixelmon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    hallwoeen {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+"tinkers construct" {
+
+    edibleslime {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    crystal {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    kingslime {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
+vanilla {
+
+    mushroomcow {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    witch {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    creeper {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    snowman {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    entityhorse {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    pigzombie {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    villager {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    enderdragon {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    ghast {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=7.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-20.0
+    }
+
+    enderman {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=15.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    skeleton {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    lavaslime {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=5.0
+        S:Size_Modifier=2.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    pig {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    squid {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-17.0
+    }
+
+    witherboss {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=15.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=5.0
+    }
+
+    sheep {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    cavespider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    ozelot {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=25.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    monster {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    giant {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    wolf {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    silverfish {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    blaze {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    zombie {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    cow {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    slime {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=5.0
+        S:Size_Modifier=2.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    spider {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    chicken {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    bat {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    mob {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    villagergolem {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=16.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    basalz {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    blizz {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    blitz {
+        B:Append_Baby_Name=true
+        D:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    otherplayers {
+        B:Append_Baby_Name=true
+        S:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    entityclientplayermp {
+        B:Append_Baby_Name=true
+        S:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+    ##########################################################################################################
+    # entitymorphacquisition
+    #--------------------------------------------------------------------------------------------------------#
+    # These settings are to help other modders and users to make custom mobs fit correctly in the preview window.
+    ##########################################################################################################
+
+    entitymorphacquisition {
+        B:Append_Baby_Name=true
+        S:Baby_Scale_Modifier=2.0
+        B:Ignore_This_Mob=false
+        S:Name=
+        S:Scale_Factor=22.0
+        S:Size_Modifier=0.0
+        S:X_Offset=0.0
+        S:Y_Offset=-5.0
+    }
+
+}
+
+
